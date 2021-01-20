@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-src = {editable = true,file = "file:///Users/frederic.montet/src/heia-fr/binder-test"}
 click = "*"
 coverage = "*"
 awscli = "*"
